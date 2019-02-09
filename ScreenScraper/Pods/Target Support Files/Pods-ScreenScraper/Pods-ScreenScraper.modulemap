@@ -1,0 +1,6 @@
+framework module Pods_ScreenScraper {
+  umbrella header "Pods-ScreenScraper-umbrella.h"
+
+  export *
+  module * { export * }
+}
